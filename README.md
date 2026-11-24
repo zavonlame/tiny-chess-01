@@ -15,3 +15,7 @@ makefun grade-local --kit . --bot https://github.com/zavonlame/tiny-chess-01 --d
 ---
 
 Entered on [make.fun](https://make.fun/?ref=ye09dzcs&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards
+
+## Round 4 (v6i40)
+
+PeSTO full-taper eval + PVS + in-search repetition scoring, BUD 40000, packed 4,076 bytes. Verified mean Elo 1279 over 3 sealed-scorer trials (9 wins / 0 draws / 9 losses) vs v5 mean 1156 (6/2/10); perft(3)=8902. Top-5 bar (Elo 2110 + spare >= 1061) not reached; v6i40 is submitted as a verified-better, more consistent final placement than v5.
